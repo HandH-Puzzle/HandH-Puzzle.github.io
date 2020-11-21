@@ -1,8 +1,6 @@
 ## Puzzle Hunts
 
-# <a href="./product/download.html" target="_top">Download Page</a>
-
-### Christmas Puzzle Hunt 
+### <a href="./product/download.html" target="_top"> Christmas Puzzle Hunt </a>
 
 Extra info
 
@@ -14,4 +12,3 @@ Solutions - Released on 19/12/2020
 \textcolor{red}{red}
 
 Errata
-
