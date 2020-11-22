@@ -9,6 +9,13 @@ Link to download pdf
 
 Solutions - Released on 19/12/2020
 
-\textcolor{red}{red}
+<span style="color:red">
+  
+Errata:
 
-Errata
+  * Currently none!
+
+</span>.
+
+
+
