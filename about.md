@@ -12,5 +12,5 @@ I'm a mathematics graduate, currently trying to tackle my first job and all that
 
 ### Contact me
 
-If you have any quesries or questions, you can contact me here: 
+If you have any queries or questions, you can contact me here: 
 [handh.puzzles@gmail.com](mailto:handh.puzzles@gmail.com)
