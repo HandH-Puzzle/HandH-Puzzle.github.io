@@ -1,4 +1,3 @@
 ## Puzzle Hunts
 
-### <a href="./product/download.html" target="_top"> Christmas Puzzle Hunt </a>
-
+### <a href="./puzzles/20201205_Christmas.md" target="_top"> Christmas Puzzle Hunt </a>
