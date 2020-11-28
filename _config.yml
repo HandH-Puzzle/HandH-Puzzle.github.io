@@ -6,7 +6,7 @@
 name: H&H Puzzles
 
 # Short bio or description (displayed in the header)
-description: This is a description
+description: Time to think
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -18,7 +18,7 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: handh.puzzles@gmail.com
   facebook:
   flickr:
   github: 
