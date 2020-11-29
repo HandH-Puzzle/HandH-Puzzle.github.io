@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Puzzles
-permalink: /Puzzles/
+permalink: /puzzles/
 published: true
 ---
 
