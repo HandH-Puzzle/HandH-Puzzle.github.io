@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Frequently Asked Questions
-permalink: /FAQ/
+permalink: /faq/
 published: true
 ---
 
