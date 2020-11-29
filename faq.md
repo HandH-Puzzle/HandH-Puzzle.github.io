@@ -1,5 +1,15 @@
-## Frequently Asked Questions
+---
+layout: page
+title: Frequently Asked Questions
+permalink: /FAQ/
+published: true
+---
 
-This is where the faqs will go
+### Q1
+A1
 
+### Q2
+A2
 
+### Q3
+A3
