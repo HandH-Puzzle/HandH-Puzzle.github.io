@@ -4,18 +4,9 @@ Merry Christmas! This is the first puzzle hunt that I've published so take this 
 
 **Released on the 05/12/2020**
 
-Link to view puzzle pdf 
+<a href="20201205_Christmas.pdf" target="_top"> View </a> or <a href="20201205_Christmas.pdf" download="20201205_Christmas">
 
-Link to download puzzle pdf
+**Released on 02/01/2021**
 
-**Released on 19/12/2020**
+View or Download 
 
-Link to view solutions pdf 
-
-Link to download solutions pdf
-
-<span style="color:red">
-  
-Errata:
-
-  * Currently none!
