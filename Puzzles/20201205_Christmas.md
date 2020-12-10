@@ -1,4 +1,9 @@
-## Christmas Puzzle Hunt
+---
+layout: page
+title: Christmas Puzzle Hunt
+permalink: /20201205_Christmas/
+published: true
+---
 
 Merry Christmas! This is the first puzzle hunt that I've published so take this as your Christmas treat this year. There is a loose Christmas theme running throughout though no specilist knowledge is required that you can't also google. Any feedback would always be appreciated! 
 
