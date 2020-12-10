@@ -4,7 +4,7 @@ Merry Christmas! This is the first puzzle hunt that I've published so take this 
 
 **Released on the 05/12/2020**
 
-<a href="../20201205_Christmas.pdf" target="_top"> View </a> or <a href="../20201205_Christmas.pdf" download="20201205_Christmas"> Download </a>
+<a href="./20201205_Christmas.pdf" target="_top"> View </a> or <a href="../20201205_Christmas.pdf" download="20201205_Christmas"> Download </a>
 
 **Released on 02/01/2021**
 
