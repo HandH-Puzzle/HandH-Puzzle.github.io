@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Christmas Puzzle Hunt
-permalink: /20201205_Christmas/
 published: true
 ---
 
