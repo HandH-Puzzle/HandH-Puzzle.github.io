@@ -5,6 +5,6 @@ permalink: /puzzles/
 published: true
 ---
 
-### <a href="/Puzzles/20201205_Christmas" target="_top"> Christmas Puzzle Hunt </a>
+### <a href="/Puzzles/20201205_Christmas.md"> Christmas Puzzle Hunt </a>
 
 A christmas puzzlehunt, containing 6 puzzles and a meta puzzle.
